@@ -1,0 +1,9 @@
+.currentlist{
+    background-color: yellow;
+    width:55%;
+    margin-left: 10%;
+}
+
+.input:focus{
+    background-color: lightcyan;
+}
